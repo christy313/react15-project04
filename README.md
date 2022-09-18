@@ -2,6 +2,8 @@
 
 - Toggle the info paragraph while clicking the plus or minus sign.
 
+[Live Demo](https://christy313.github.io/react15-project04)
+
 ![](./public/04-accordion.gif)
 
 - idea: [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
